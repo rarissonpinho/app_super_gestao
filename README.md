@@ -39,7 +39,34 @@ Confira nosso vídeo demonstrativo da usabilidade da aplicação [aqui](URL_DO_S
 
 ## Super Gestão Empresarial
 
-Este projeto é uma aplicação de super gestão, desenvolvida para permitir que qualquer empresa gerencie eficientemente seus fornecedores, clientes e produtos. Utiliza o PHP com Laravel (Blade, Eloquent ORM, Views) seguindo o padrão MVC, garantindo uma estrutura organizada e de fácil manutenção. Além disso, inclui um sistema de autenticação e suporte para super usuário, oferecendo controle total sobre o sistema.
+
+Claro, vamos detalhar cada ferramenta utilizada no projeto:
+
+## PHP com Laravel
+O PHP é uma linguagem de programação amplamente utilizada na web, conhecida por sua facilidade de uso e flexibilidade. Laravel é um framework PHP moderno e poderoso, que oferece uma ampla gama de recursos para o desenvolvimento de aplicativos web robustos e eficientes.
+
+## Controllers
+Os controllers desempenham um papel crucial no Laravel, pois são responsáveis por gerenciar as solicitações HTTP da aplicação. Eles atuam como intermediários entre as rotas definidas na aplicação e a lógica de negócios subjacente. 
+Organização da Lógica de Negócios
+Os controllers permitem organizar a lógica de negócios da aplicação de forma estruturada e modular. Cada controller pode ser responsável por lidar com um conjunto específico de operações ou recursos relacionados, o que facilita a manutenção e a escalabilidade do código.
+
+## Blade
+Blade é o mecanismo de template integrado ao Laravel. Ele permite a criação de views de forma simples e expressiva, facilitando a interação entre o código PHP e o HTML.
+
+## Eloquent ORM
+Eloquent ORM é o componente do Laravel responsável pelo mapeamento objeto-relacional. Ele simplifica a interação com o banco de dados, permitindo que os desenvolvedores trabalhem com objetos PHP em vez de escrever consultas SQL diretamente. Isso torna o desenvolvimento mais rápido, seguro e intuitivo.
+
+## Views
+No contexto do Laravel, as views representam as interfaces de usuário da aplicação. Elas são responsáveis por apresentar os dados aos usuários de forma organizada e amigável, tornando a experiência de uso mais agradável e eficiente.
+
+## Padrão MVC
+O padrão MVC (Model-View-Controller) é uma arquitetura de software que separa as preocupações de uma aplicação em três componentes principais: Model, View e Controller. Isso promove a modularidade, a reutilização de código e a manutenção simplificada, tornando o código mais limpo e fácil de entender.
+
+## Sistema de Autenticação
+O sistema de autenticação integrado ao Laravel oferece recursos para proteger áreas restritas da aplicação, permitindo que apenas usuários autorizados acessem determinados recursos. Isso é essencial para garantir a segurança e a privacidade dos dados dos usuários e da empresa.
+
+Suporte para Super Usuário
+O suporte para super usuário é uma funcionalidade que concede privilégios especiais a determinados usuários, permitindo que eles tenham controle total sobre o sistema. Isso é útil para administradores ou gerentes que precisam acessar e gerenciar todos os recursos da aplicação.
 
 ### Características Principais
 
