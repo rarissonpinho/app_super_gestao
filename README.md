@@ -29,38 +29,33 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
+## Super Gestão Empresarial
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Este projeto é uma aplicação de super gestão, desenvolvida para permitir que qualquer empresa gerencie eficientemente seus fornecedores, clientes e produtos. Utiliza o PHP com Laravel (Blade, Eloquent ORM, Views) seguindo o padrão MVC, garantindo uma estrutura organizada e de fácil manutenção. Além disso, inclui um sistema de autenticação e suporte para super usuário, oferecendo controle total sobre o sistema.
 
-### Premium Partners
+### Características Principais
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+CRUD: Operações completas de criação, leitura, atualização e exclusão para fornecedores, clientes e produtos.
+Autenticação: Sistema de autenticação integrado para garantir segurança e controle de acesso.
+Super Usuário: Recursos adicionais para um usuário com privilégios especiais, permitindo ações administrativas avançadas.
 
-## Contributing
+## Requisitos
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Laravel Framework: Versão 9.52.7
+PHP: 8.0.28
+MySQL: Utiliza MySQL Workbench como banco de dados principal.
 
-## Code of Conduct
+## Instalação
+Clone este repositório: git clone https://github.com/rarissonpinho/app_super_gestao.git
+Instale as dependências do Composer: composer install
+Configure o arquivo .env com as informações do seu ambiente de desenvolvimento.
+Execute as migrações do banco de dados: php artisan migrate
+Inicie o servidor local: php artisan serve
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Contribuindo
 
-## Security Vulnerabilities
+Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
+## Licença
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
