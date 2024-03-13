@@ -29,6 +29,14 @@ You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
+## Bem-vindo à Aplicação Super Gestão!
+
+Nesta aplicação, você pode gerenciar eficientemente seus fornecedores, clientes e produtos. 
+
+### Vídeo de Usabilidade
+
+Confira nosso vídeo demonstrativo da usabilidade da aplicação [aqui](URL_DO_SEU_VÍDEO).
+
 ## Super Gestão Empresarial
 
 Este projeto é uma aplicação de super gestão, desenvolvida para permitir que qualquer empresa gerencie eficientemente seus fornecedores, clientes e produtos. Utiliza o PHP com Laravel (Blade, Eloquent ORM, Views) seguindo o padrão MVC, garantindo uma estrutura organizada e de fácil manutenção. Além disso, inclui um sistema de autenticação e suporte para super usuário, oferecendo controle total sobre o sistema.
