@@ -37,11 +37,6 @@ Nesta aplicação, você pode gerenciar eficientemente seus fornecedores, client
 
 Confira nosso vídeo demonstrativo da usabilidade da aplicação [aqui](URL_DO_SEU_VÍDEO).
 
-## Super Gestão Empresarial
-
-
-Claro, vamos detalhar cada ferramenta utilizada no projeto:
-
 ## PHP com Laravel
 O PHP é uma linguagem de programação amplamente utilizada na web, conhecida por sua facilidade de uso e flexibilidade. Laravel é um framework PHP moderno e poderoso, que oferece uma ampla gama de recursos para o desenvolvimento de aplicativos web robustos e eficientes.
 
