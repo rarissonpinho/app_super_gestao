@@ -35,7 +35,7 @@ Nesta aplicação, você pode gerenciar eficientemente seus fornecedores, client
 
 ### Vídeo de Usabilidade
 
-Confira nosso vídeo demonstrativo da usabilidade da aplicação [[aqui](https://www.linkedin.com/feed/update/urn:li:ugcPost:7173835350228893696/).
+Confira nosso vídeo demonstrativo da usabilidade da aplicação [aqui](https://www.linkedin.com/feed/update/urn:li:ugcPost:7173835350228893696/).
 
 ## PHP com Laravel
 O PHP é uma linguagem de programação amplamente utilizada na web, conhecida por sua facilidade de uso e flexibilidade. Laravel é um framework PHP moderno e poderoso, que oferece uma ampla gama de recursos para o desenvolvimento de aplicativos web robustos e eficientes.
